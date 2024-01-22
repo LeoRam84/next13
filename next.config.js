@@ -5,6 +5,6 @@ module.exports = nextConfig
 
 module.exports = {
   images: {
-    domains: ['next13-ten-psi.vercel.app'],
+    domains: ['https://next13-ten-psi.vercel.app'],
   },
 }
