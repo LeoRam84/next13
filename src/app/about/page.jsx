@@ -1,11 +1,11 @@
-export const metadata = {
-  title: "Sobre | Front-end Insights",
-  description: "A Front-End Insights é uma newsletter semanal dedicada a fornecer conhecimentos valiosos sobre o mundo do desenvolvimento front-end.",
-  openGraph: {
-    title: "Sobre | Front-end Insights",
-    description: "A Front-End Insights é uma newsletter semanal dedicada a fornecer conhecimentos valiosos sobre o mundo do desenvolvimento front-end.",
-  }
-}
+// export const metadata = {
+//   title: "Sobre | Front-end Insights",
+//   description: "A Front-End Insights é uma newsletter semanal dedicada a fornecer conhecimentos valiosos sobre o mundo do desenvolvimento front-end.",
+//   openGraph: {
+//     title: "Sobre | Front-end Insights",
+//     description: "A Front-End Insights é uma newsletter semanal dedicada a fornecer conhecimentos valiosos sobre o mundo do desenvolvimento front-end.",
+//   }
+// }
 
 export default function About() {
   const h1 = "mt-10 mb-6 text-2xl font-bold"
